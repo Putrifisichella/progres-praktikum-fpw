@@ -8,8 +8,8 @@
     <div class="py-12">
 
         <div class="mx-auto max-w-7xl sm:px-6 lg:px-8">
-            <div class="overflow-hidden bg-white shadow-sm sm:rounded-lg">
-                <div class="p-6 text-gray-900">
+            <div class="overflow-hidden bg-green shadow-sm sm:rounded-lg">
+                <div class="p-6 text-white">
                     <div class="container mx-auto mt-5">
                         <h2 class="mb-5 text-2xl font-bold">Supplier</h2>
                         <x-auth-session-status class="mb-4" :status="session('success')" />
